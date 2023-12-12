@@ -3741,6 +3741,15 @@ figcaption {
   line-height: 57px;
 }
 
+.heading-6 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 0.59px;
+  padding-right: 204.41px;
+  display: flex;
+}
+
 .margin-bottom-24px-4 {
   margin-bottom: 24px;
   font-weight: 600;
