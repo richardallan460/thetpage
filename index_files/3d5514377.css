@@ -3743,6 +3743,7 @@ figcaption {
 
 .heading-10 {
   flex-direction: column;
+  font-weight: bold;
   justify-content: flex-start;
   align-items: center;
   padding-left: 0.59px;
